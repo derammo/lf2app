@@ -1,6 +1,6 @@
 # lf2app
 
-This is the support page for the "Looking Forward To" iOS and WatchOS application.  You may reports about bugs you encounter via the "Issues" tab.
+This is the support page for the "Looking Forward To" iOS and WatchOS application.  You can file any bug reports or feature requests via the "Issues" tab.
 
 LICENSING:
 
